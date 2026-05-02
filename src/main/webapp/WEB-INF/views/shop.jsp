@@ -53,7 +53,7 @@
   <div class="shop-header">
     <div class="logo">
       <i class="fas fa-bag-shopping"></i>
-      <span>ShoppyCart</span>
+      <span>Cart</span>
     </div>
     <a href="${pageContext.request.contextPath}/cart" class="cart-icon-btn">
       <i class="fas fa-shopping-cart"></i>
