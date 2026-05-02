@@ -64,7 +64,7 @@
   <%-- Tabs --%>
   <div class="tabs">
     <a href="${pageContext.request.contextPath}/shop" class="tab active">🛍️ Shop</a>
-    <a href="${pageContext.request.contextPath}/cart" class="tab">🛒 Cart (${cartCount})</a>
+    <a href="${pageContext.request.contextPath}/cart" class="tab">🛒 cart (${cartCount})</a>
   </div>
 
   <%-- Product Grid --%>
